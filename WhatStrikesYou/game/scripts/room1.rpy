@@ -25,7 +25,7 @@ label room1:
                 scene room 1 with dissolve:
                     zoom 1.2
                 "I'm not sure what could interest you in an area such as this, but I'll still ask..."
-                "{b}What Strikes You?{b}"
+                "{b}What Strikes You?{/b}"
                 menu:
                     "The Oblong Stick":
                         "It's a stick that's... Oblong..."

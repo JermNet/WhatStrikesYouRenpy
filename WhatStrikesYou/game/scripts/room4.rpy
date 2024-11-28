@@ -27,7 +27,7 @@ label room4:
                         "Though, I ought not say things like that."
                         thinking "..."
                         if found_music == True:
-                            if good_music == False and bad_music == False:
+                            if not music:
                                 "What are you doing?"
                                 thinking "..."
                                 "Oh, I see, that \"clicky button\" did serve a purpose after all."
