@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/achievements.rpy", line 210: the xpos keyword argument was not given a value.
+    image "gui/main_menu.png" xpos=0 ypos=0 xanchor=0 yanchor=0
+                                  ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Mon Dec  2 10:03:51 2024
